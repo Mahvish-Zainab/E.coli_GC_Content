@@ -6,6 +6,7 @@ A Python project for calculating GC content from the complete genome of E. coli 
 GC content is the percentage of guanine (G) and cytosine (C) bases present in a DNA sequence.
 This project uses Python to read a FASTA sequence file and calculate the GC content of the *E. coli* K-12 MG1655 genome.
 
+
 ## 🦠 Organism
 
 - Organism: *Escherichia coli*
@@ -33,6 +34,7 @@ FORMULA: GC Content (%) = ((G + C) / Total nucleotides) × 100
 - `gc_content.py` – Python program for calculating GC content.
 - `sequence.fasta` – FASTA sequence of *E. coli* K-12 MG1655.
 - `README.md` – Project description and methodology.
+
   
 
 ## 💻 Technologies Used
@@ -41,9 +43,11 @@ FORMULA: GC Content (%) = ((G + C) / Total nucleotides) × 100
 - FASTA sequence data
   
 
+
 ## 🎯 Learning Objective
 
 This project was created as an introductory bioinformatics project to practice Python file handling, string operations, and basic DNA sequence analysis.
+
 
 
 ## 🧬 Result
@@ -51,10 +55,12 @@ This project was created as an introductory bioinformatics project to practice P
 The calculated GC content is approximately 50.8%.
 
 
+
 ## 🔗 Data Source
 
 NCBI Nucleotide Database
 Accession: NZ_CP010444.1
+
 
 
 ## 🚀 Future Improvements
