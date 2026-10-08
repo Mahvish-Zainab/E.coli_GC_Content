@@ -20,10 +20,9 @@ This project uses Python to read a FASTA sequence file and calculate the GC cont
 The program:
 
 1. Reads the DNA sequence from a FASTA file.
-2. Removes the FASTA header and line breaks.
-3. Counts the number of G and C nucleotides.
-4. Calculates the total number of nucleotides.
-5. Calculates GC content using:
+2. Counts the number of G and C nucleotides.
+3. Calculates the total number of nucleotides.
+4. Calculates GC content using:
 
 FORMULA: GC Content (%) = ((G + C) / Total nucleotides) × 100
 
