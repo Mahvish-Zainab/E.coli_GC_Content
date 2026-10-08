@@ -12,6 +12,7 @@ This project uses Python to read a FASTA sequence file and calculate the GC cont
 - Strain: K-12 MG1655
 - Sequence: Complete genome
 - NCBI Accession: NZ_CP010444.1
+- 
 
 ## Method
 
@@ -25,29 +26,35 @@ The program:
 
 FORMULA: GC Content (%) = ((G + C) / Total nucleotides) × 100
 
+
 ## 📁 Files
 
 - `gc_content.py` – Python program for calculating GC content.
 - `sequence.fasta` – FASTA sequence of *E. coli* K-12 MG1655.
 - `README.md` – Project description and methodology.
+  
 
 ## 💻 Technologies Used
 
 - Python
 - FASTA sequence data
+  
 
 ## 🎯 Learning Objective
 
 This project was created as an introductory bioinformatics project to practice Python file handling, string operations, and basic DNA sequence analysis.
 
+
 ## 🧬 Result
 
 The calculated GC content is approximately 50.8%.
+
 
 ## 🔗 Data Source
 
 NCBI Nucleotide Database
 Accession: NZ_CP010444.1
+
 
 ## 🚀 Future Improvements
 
@@ -55,6 +62,4 @@ Accession: NZ_CP010444.1
 - Calculate GC content for multiple sequences.
 - Add analysis of GC content in different regions of a genome.
 
-- Accept FASTA files provided by the user.
-- Calculate GC content for multiple sequences.
-- Add analysis of GC content in different regions of a genome.
+
