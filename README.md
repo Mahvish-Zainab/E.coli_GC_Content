@@ -35,6 +35,8 @@ FORMULA: GC Content (%) = ((G + C) / Total nucleotides) × 100
 - `sequence.fasta` – FASTA sequence of *E. coli* K-12 MG1655.
 - `README.md` – Project description and methodology.
 
+
+
   
 
 ## 💻 Technologies Used
